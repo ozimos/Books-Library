@@ -25,5 +25,4 @@ function getCoverPhoto(id, successCallback,errCallback){
 
 
 getCoverPhoto(3, (data)=> console.dir(data), (err)=> console.log(err));
-
 deleteCoverPhoto(100, (data)=> console.dir(data), (err)=> console.dir(err));
