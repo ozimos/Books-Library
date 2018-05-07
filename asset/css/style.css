@@ -40,6 +40,14 @@ footer {
 
 
 /*class and ID*/
+
+.addbookForm  {
+    display:  none;
+  }
+  
+  .showbookForm {
+    display: block;
+  }
 .container{
     padding: 100px;
     position: relative; 
